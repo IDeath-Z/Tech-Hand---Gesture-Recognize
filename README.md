@@ -1,2 +1,19 @@
-# Tech-Hand---Gesture-Recognize
-Este projeto foi desenvolvido para o projeto integrador de 1º semestre de engenharia da computação, seu objetivo é controlar uma mão articulada por meio de reconhecimento de gestos, junto com a implementação com Arduino.
+# Tech-Hand - Gesture Recognize
+
+Este repositorio contem:
+* Amostra do programa
+* Codigo para o arduino
+
+# Requerimentos:
+* Arduino IDE (Apenas caso seja utilizado Arduino)
+* PySerial version: 3.5 (Apenas caso seja utilizado Arduino)
+* Mediapipe version: 0.10.10
+* OpenCV version: 4.9.0
+
+# Referencias
+* [MediaPipe](https://mediapipe.dev/)
+* [Arduino IDE](https://www.arduino.cc/en/software)
+
+# Autor
+
+José Antonio (https://github.com/IDeath-Z)
