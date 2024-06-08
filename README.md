@@ -6,9 +6,9 @@ Este repositorio contem:
 
 # Requerimentos:
 * Arduino IDE (Apenas caso seja utilizado Arduino)
-* PySerial version: 3.5 (Apenas caso seja utilizado Arduino)
-* Mediapipe version: 0.10.10
-* OpenCV version: 4.9.0
+* PySerial versão: 3.5 (Apenas caso seja utilizado Arduino)
+* Mediapipe versão: 0.10.10
+* OpenCV versão: 4.9.0
 
 # Referencias
 * [MediaPipe](https://mediapipe.dev/)
