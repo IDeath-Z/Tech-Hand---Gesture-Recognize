@@ -14,7 +14,7 @@ Este repositorio contem:
 * [MediaPipe](https://mediapipe.dev/)
 * [Arduino IDE](https://www.arduino.cc/en/software)
 
-# Apresentação do projeto
+# Apresentação do Projeto
 
 (https://www.youtube.com/watch?v=dK67ImJ7tnA)
 
