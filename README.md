@@ -14,7 +14,10 @@ Este repositorio contem:
 * [MediaPipe](https://mediapipe.dev/)
 * [Arduino IDE](https://www.arduino.cc/en/software)
 
+# Apresentação do projeto
+
+(https://www.youtube.com/watch?v=dK67ImJ7tnA)
+
 # Autor
 
 José Antonio (https://github.com/IDeath-Z)
-Link para apresentação do projeto: (https://www.youtube.com/watch?v=dK67ImJ7tnA)
